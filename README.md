@@ -1,7 +1,5 @@
 <div align="center">
 
-  <br />
-
   <h2 align="center">E-Karangpakel - eCommerce website</h2>
 
 E-Karangpakel is a fully responsive organic ecommerce website, <br />Responsive for all devices, build using PHP, HTML, CSS, and JavaScript.
@@ -13,6 +11,7 @@ E-Karangpakel is a fully responsive organic ecommerce website, <br />Responsive 
 <br />
 
 ### Demo Screeshots
+![screencapture-localhost-8080-uaspbw-2023-08-07-07_09_04](https://github.com/naufalzp/ecommerce/assets/98691805/aa4eb263-eb29-4cdf-89eb-15634d28c796)
 
 ### Prerequisites
 
