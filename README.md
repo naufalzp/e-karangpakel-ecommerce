@@ -26,13 +26,13 @@ To run **E-Karangpakel** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/naufalzp/ecommerce
+sudo git clone https://github.com/naufalzp/e-karangpakel-ecommerce
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/naufalzp/ecommerce
+git clone https://github.com/naufalzp/e-karangpakel-ecommerce
 ```
 
 ### Contact
